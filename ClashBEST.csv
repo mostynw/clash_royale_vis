@@ -1,0 +1,62 @@
+,Card,Rarity,Elixir,Count,Hitpoints,Damage,Range,Hit Speed,Damage per second,Death Damage,Speed,Type 1,Type 2,Targets
+0,Skeletons,Common,1,3,89,267,0,1,267,0,Medium,Troop,Ground,Ground
+1,Goblins,Common,2,3,221,396,0,1.1,359,0,Very Fast,Goblin,Ground,Ground
+2,Spear Goblins,Common,2,3,146,267,5,1.3,205,0,Very Fast,Goblin,Ground,Ground & Air
+3,Bats,Common,2,5,89,445,0,1,445,0,Very Fast,Creature,Flying,Ground & Air
+4,Ice Golem,Rare,2,1,1316,93,1,2.5,37,70,Slow,Creature,Ground,Buildings
+5,Archers,Common,3,2,334,236,5,1.2,196,0,Medium,Troop,Ground,Ground & Air
+6,Knight,Common,3,1,1832,221,0,1.1,200,0,Medium,Troop,Ground,Ground
+7,Minions,Common,3,3,252,336,2,1,336,0,Medium,Creature,Flying,Ground & Air
+8,Bomber,Common,3,1,528,359,4.5,1.9,188,0,Medium,Skeleton,Ground,Ground
+9,Skeleton Barrel,Common,3,6,843,146,0,1,146,0,Fast,Skeleton,Ground,Ground
+10,Goblin Gang,Common,3,6,318,574,2.5,1.2,478,0,Fast,Goblin,Ground,Ground & Air
+11,Mega Minion,Rare,3,1,920,342,2,1.5,228,0,Medium,Creature,Flying,Ground & Air
+12,Dart Goblin,Rare,3,1,286,132,6.5,0.7,188,0,Very Fast,Goblin,Ground,Ground & Air
+13,Elixir Golem,Rare,3,1,1864,279,0,1.3,214,0,Slow,Creature,Ground,Buildings
+14,Skeleton Army, Epic,3,14,89,1335,0,1,1335,0,Medium,Skeleton,Ground,Ground
+15,Goblin Barrel, Epic,3,3,221,396,0,1.1,359,0,Medium,Goblin,Ground,Ground
+16,Guards, Epic,3,3,264,119,0,1.2,99,0,Medium,Skeleton,Ground,Ground
+17,Miner,Common,3,1,1330,212,0,1.2,176,0,Fast,Troop,Ground,Ground
+18,Princess,Legendary,3,1,287,186,9,3,62,0,Medium,Troop,Ground,Ground & Air
+19,Ice Wizard,Legendary,3,1,784,99,5.5,1.7,58,0,Medium,Magic,Ground,Ground & Air
+20,Bandit,Legendary,3,1,997,212,0,1,212,0,Fast,Troop,Ground,Ground
+21,Fisherman,Common,3,1,1064,212,7,1.3,163,0,Medium,Troop,Ground,Ground
+22,Royal Ghost,Common,3,1,1330,287,0,1.8,159,0,Fast,Magic,Ground,Ground
+23,Mini P.E.K.K.A,Rare,4,1,1495,792,0,1.6,494,0,Fast,Troop,Ground,Ground
+24,Musketeer,Rare,4,1,792,239,6,1.1,217,0,Medium,Troop,Ground,Ground & Air
+25,Hog Rider,Rare,4,1,1864,349,0,1.5,232,0,Very Fast,Troop,Ground,Buildings
+26,Valkyrie,Rare,4,1,2190,293,0,1.5,195,0,Medium,Troop,Ground,Ground
+27,Battle Ram,Rare,4,2,1001,291,0,1.4,207,0,Medium,Troop,Ground,Buildings
+28,Flying Machine,Rare,4,1,675,188,6,1.1,170,0,Fast,Machine,Flying,Ground & Air
+29,Zappies,Rare,4,3,582,279,4.5,2.1,132,0,Medium,Machine,Ground,Ground & Air
+30,Baby Dragon, Epic,4,1,1408,176,3.5,1.6,109,0,Medium,Creature,Flying,Ground & Air
+31,Hunter, Epic,4,1,922,932,4,2.2,423,0,Medium,Troop,Ground,Ground & Air
+32,Dark Prince, Epic,4,1,264,1364,0,1.5,909,0,Medium,Troop,Ground,Ground
+33,Magic Archer,Legendary,4,1,651,147,7,1.1,133,0,Medium,Magic,Ground,Ground & Air
+34,Night Witch,Common,4,1,997,345,0,1.5,230,0,Medium,Magic,Ground,Ground
+35,Lumberjack,Legendary,4,1,1409,266,0,0.7,380,0,Very Fast,Troop,Ground,Ground
+36,Electro Wizard,Legendary,4,1,784,255,5,1.8,141,0,Fast,Magic,Ground,Ground & Air
+37,Barbarians,Common,5,4,736,1050,0,1.5,700,0,Medium,Troop,Ground,Ground
+38,Minion Horde,Common,5,6,252,672,2,1,672,0,Medium,Creature,Flying,Ground & Air
+39,Giant,Rare,5,1,4336,279,0,1.5,186,0,Slow,Magic,Ground,Buildings
+40,Wizard,Rare,5,1,792,307,5.5,1.4,219,0,Medium,Magic,Ground,Ground & Air
+41,Royal Hogs,Rare,5,6,920,296,0,1.2,246,0,Very Fast,Creature,Ground,Buildings
+42,Prince, Epic,5,1,2138,431,0,1.5,287,0,Medium,Troop,Ground,Ground
+43,Witch, Epic,5,1,922,292,5,0.7,417,0,Medium,Magic,Ground,Ground & Air
+44,Balloon, Epic,5,1,1848,1056,0,3,352,272,Medium,Machine,Flying,Buildings
+45,Bowler, Epic,5,1,2112,316,5,2.5,126,0,Slow,Creature,Ground,Ground
+46,Cannon Cart, Epic,5,1,982,982,5.5,1.2,818,0,Medium,Machine,Ground,Ground
+47,Electro Dragon, Epic,5,1,1045,211,3.5,2.1,100,0,Medium,Creature,Flying,Ground & Air
+48,Executioner, Epic,5,1,1270,679,4.5,2.4,282,0,Medium,Troop,Ground,Ground & Air
+49,Ram Rider,Legendary,5,1,1943,292,0,1.8,162,0,Medium,Troop,Ground,Buildings
+50,Royal Giant,Common,6,1,3372,337,6.5,1.7,198,0,Slow,Magic,Ground,Buildings
+51,Elite Barbarians,Common,6,2,1286,798,0,1.5,532,0,Very Fast,Troop,Ground,Ground
+52,Giant Skeleton, Epic,6,1,3696,228,0,1.5,152,957,Medium,Skeleton,Ground,Ground
+53,Goblin Giant, Epic,6,1,3461,193,0,1.5,128,0,Medium,Goblin,Ground,Buildings
+54,Sparky,Legendary,6,1,1596,1463,4.5,5,292,0,Slow,Machine,Ground,Ground
+55,Royal Recruits,Common,7,6,264,584,0,1.3,449,0,Medium,Troop,Ground,Ground
+56,P.E.K.K.A, Epic,7,1,4136,897,0,1.8,498,0,Slow,Troop,Ground,Ground
+57,Lava Hound,Legendary,7,1,4189,59,2,1.3,45,0,Slow,Creature,Flying,Buildings
+58,Mega Knight,Legendary,7,1,4389,295,0,1.7,173,0,Medium,Troop,Ground,Ground
+59,Golem, Epic,8,1,5632,343,0,2.5,137,259,Slow,Creature,Ground,Buildings
+60,Three Musketeers,Rare,9,3,792,717,6,1.1,651,0,Medium,Troop,Ground,Ground & Air
